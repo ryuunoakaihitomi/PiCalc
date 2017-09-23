@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:4:5-19:19
+	android:label
+		ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:7:9-41
+	android:supportsRtl
+		ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:10:9-35
+	android:resizeableActivity
+		ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:9:9-42
+	android:allowBackup
+		ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:5:9-35
+	android:icon
+		ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:6:9-43
+	android:largeHeap
+		ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:8:9-33
+	android:theme
+		ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.ryuunoakaihitomi.picalc.MainActivity
+ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\apppj\PiCalc\app\src\main\AndroidManifest.xml

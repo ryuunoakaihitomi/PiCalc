@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PiCalc</string>
+    <string name="calc_completed">The calculation is complete, writing to the cache and restarting the application...</string>
+    <string name="hard_info">Hardware infomation</string>
+    <string name="phone_mod">Phone model:</string>
+    <string name="cpu_mod">CPU Model:</string>
+    <string name="calc">Calculate</string>
+    <string name="click_calc">Click to calculate</string>
+    <string name="his">History</string>
+    <string name="no_histroy">There is no record now, please run a calculation.</string>
+    <string name="his_list">Last Record:\n     Start Time: %1$s\n     Calculation Accuracy: %2$s\n     Time-consuming: %3$s milliseconds\nLong click to show the pi.</string>
+    <string name="help">Help</string>
+    <string name="info">This is a small application for calculating the pi and can be used to test CPU performance.</string>
+    <string name="set_acc">Set the calculation accuracy</string>
+    <string name="mil">After 100,000 decimal places</string>
+    <string name="detemine">OK</string>
+    <string name="null_acc">The calculation accuracy is empty!</string>
+    <string name="read_res">Reading result...</string>
+    <string name="res_view">Result Viewer</string>
+    <string name="clip_cpy">Copy into clipboard</string>
+    <string name="developer">Developer: @ryuunoakaihitomi ,github.com</string>
+    <string name="calc_ing">Calculcating...</string>
+    <string name="calcing_warning">Please do not operate the device, please press the home key if you want to exit.</string>
+</resources>

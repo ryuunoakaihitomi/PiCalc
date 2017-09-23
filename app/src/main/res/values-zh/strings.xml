@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">圆周率计算</string>
+    <string name="calc_completed">计算完成，正在写入缓存和重启应用。</string>
+    <string name="hard_info">硬件信息</string>
+    <string name="phone_mod">手机型号：</string>
+    <string name="cpu_mod">CPU型号：</string>
+    <string name="calc">计算</string>
+    <string name="click_calc">点击开始计算</string>
+    <string name="his">历史</string>
+    <string name="no_histroy">记录为空，请先计算一次。</string>
+    <string name="his_list">最近一次记录：\n     开始时间：%1$s\n     计算精度：%2$s\n     运算耗时：%3$s毫秒\n长按显示结果。</string>
+    <string name="help">帮助</string>
+    <string name="info">这是一个计算圆周率的小应用，可用来测试CPU性能。</string>
+    <string name="set_acc">设置运算精度</string>
+    <string name="mil">小数点后十万位</string>
+    <string name="detemine">确定</string>
+    <string name="null_acc">计算精度为空！</string>
+    <string name="read_res">正在读取结果。</string>
+    <string name="res_view">结果查看器</string>
+    <string name="clip_cpy">复制进剪贴板</string>
+    <string name="developer">开发者：@龙红瞳，酷安网</string>
+    <string name="calc_ing">计算中</string>
+    <string name="calcing_warning">请不要操作设备，如果想退出请按下home键。</string>
+</resources>
